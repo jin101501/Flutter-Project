@@ -21,5 +21,5 @@
 
 <제어 화면>
 * 자동제어 버튼 및 수동제어 버튼을 통해 제어가 가능하도록 설계하였습니다.
-<img src=".\scan\자동제어.png" >
-<img src=".\scan\수동제어.png" >
+<img src=".\scan\자동제어.PNG" >
+<img src=".\scan\수동제어.PNG" >
